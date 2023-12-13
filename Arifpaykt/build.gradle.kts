@@ -36,7 +36,6 @@ android {
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
-                        //consumerProguardFiles("consumer-rules.pro")
             )
         }
     }
@@ -80,12 +79,12 @@ dependencies {
 publishing {
     publications {
         create<MavenPublication>("maven") {
-            groupId = "com.github.geek-atif"
-            artifactId = "com-atifqamar-customtoast"
-            version = "1.0"
-//            pom {
-//                description = "First release"
-//            }
+            groupId = "com.github.tedy21"
+            artifactId = "arifpaykt"
+            version = "1.0.0"
+            pom {
+                description = "First version release"
+            }
         }
     }
     repositories {
