@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.tedy21</groupId> <!-- com.github.geek-atif-->
-    <artifactId>Arifpaykt</artifactId> <!-- com-atifqamar-customtoast -->
+    <artifactId>arifpaykt</artifactId> <!-- com-atifqamar-customtoast -->
     <version>1.0.0</version> <!-- 1.0 -->
     <packaging>pom</packaging>
     <description>First version release</description>

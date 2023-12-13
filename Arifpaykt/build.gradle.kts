@@ -82,6 +82,7 @@ publishing {
             groupId = "com.github.tedy21"
             artifactId = "arifpaykt"
             version = "1.0.0"
+            //packaging = "aar" // Specify the packaging type, e.g., "aar" for Android libraries
 //            pom {
 //                description = "First version release"
 //            }
@@ -89,7 +90,7 @@ publishing {
     }
     repositories {
         maven {
-            url = uri("https://your-maven-repository-url") // Replace with your repository URL
+            url = uri("https://github.com/tedy21/ArifpayKt") // Replace with your repository URL
         }
     }
 }
