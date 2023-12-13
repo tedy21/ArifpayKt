@@ -82,9 +82,9 @@ publishing {
             groupId = "com.github.tedy21"
             artifactId = "arifpaykt"
             version = "1.0.0"
-            pom {
-                description = "First version release"
-            }
+//            pom {
+//                description = "First version release"
+//            }
         }
     }
     repositories {
