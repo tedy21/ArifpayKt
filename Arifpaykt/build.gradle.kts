@@ -80,7 +80,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "com.github.tedy21"
             artifactId = "Arifpaykt"
-            version = "1.1"
+            version = "1.0.1"
             //packaging = "aar" // Specify the packaging type, e.g., "aar" for Android libraries
 //            pom {
 //                description = "First version release"
