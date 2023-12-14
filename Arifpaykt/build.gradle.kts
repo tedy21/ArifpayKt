@@ -75,12 +75,11 @@ dependencies {
     implementation("com.google.code.gson:gson:2.8.9")
 }
 
-// Publishing configuration
 publishing {
     publications {
         create<MavenPublication>("maven") {
             groupId = "com.github.tedy21"
-            artifactId = "arifpaykt"
+            artifactId = "Arifpaykt"
             version = "1.0.0"
             //packaging = "aar" // Specify the packaging type, e.g., "aar" for Android libraries
 //            pom {

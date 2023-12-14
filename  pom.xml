@@ -5,6 +5,6 @@
     <groupId>com.github.tedy21</groupId> <!-- com.github.geek-atif-->
     <artifactId>arifpaykt</artifactId> <!-- com-atifqamar-customtoast -->
     <version>1.0.0</version> <!-- 1.0 -->
-    <packaging>pom</packaging>
+    <packaging>aar</packaging>
     <description>First version release</description>
 </project>
